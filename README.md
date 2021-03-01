@@ -11,9 +11,9 @@ In this tutorial, we will integrate the Firebase Authentication for Google Sign-
 
 ##### Step of Implementation Google Authentication
 
-    Create an android project
+    Create an android project.
     Setup and add project on firebase console.
-    Enable Google Sign In
+    Enable Google Sign In.
     Add SHA and 256 keys to the app on firebase console. (Required step for Google Sign In )
-    Add authentication library in app-level build.gradle
-    Setup Google client
+    Add authentication library in app-level build.gradle.
+    Setup Google client.
