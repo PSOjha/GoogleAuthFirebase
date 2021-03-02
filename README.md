@@ -20,4 +20,3 @@ In this tutorial, we will integrate the Firebase Authentication for Google Sign-
 
 #### Screenshot
 
-![Screenshot_2021-03-01-12-29-54-889_com example googleauthfirebase](https://user-images.githubusercontent.com/32029236/109603128-48ecca80-7ad6-11eb-95ba-b8bd6fe81447.jpg)
