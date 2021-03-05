@@ -21,3 +21,18 @@ In this tutorial, we will integrate the Firebase Authentication for Google Sign-
 #### Screenshot
 
 <img src="Screenshot_2021-03-01-12-29-54-889_com.example.googleauthfirebase.jpg" width="200">
+
+
+
+
+- Add yours google-services.json
+- Change Authorization:key with your key from firebase project
+
+
+Implementation Guide
+
+1. Open the Project in your android studio;
+2. IMPORTANT Change the Package Name. (https://stackoverflow.com/questions/16804093/android-studio-rename-package)
+
+Not able to carry this project anymore, but anybody who wanted to work on this project can do happily.
+I am attaching images with this, if you like then do try it....
